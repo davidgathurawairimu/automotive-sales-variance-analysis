@@ -1,0 +1,16 @@
+dealership_id,name,region,city,opened_year,num_staff
+DLR-0001,"Rodriguez, Figueroa and Sanchez Motors",Mombasa,Mombasa,1998,40
+DLR-0002,Doyle Ltd Motors,Nakuru,Nakuru,2005,22
+DLR-0003,"Mcclain, Miller and Henderson Motors",Mombasa,Mombasa,2019,74
+DLR-0004,Davis and Sons Motors,Mombasa,Mombasa,2016,59
+DLR-0005,"Guzman, Hoffman and Baldwin Motors",Nairobi,Nairobi,1998,16
+DLR-0006,"Gardner, Robinson and Lawrence Motors",Nakuru,Nakuru,2005,69
+DLR-0007,Blake and Sons Motors,Nairobi,Nairobi,2015,30
+DLR-0008,"Henderson, Ramirez and Lewis Motors",Nyeri,Nyeri,2005,62
+DLR-0009,Garcia-James Motors,Eldoret,Eldoret,2023,5
+DLR-0010,Abbott-Munoz Motors,Kisumu,Kisumu,2020,59
+DLR-0011,Blair PLC Motors,Thika,Thika,2006,24
+DLR-0012,Dudley Group Motors,Nakuru,Nakuru,2022,48
+DLR-0013,Arnold Ltd Motors,Mombasa,Mombasa,2000,53
+DLR-0014,"Mcclure, Ward and Lee Motors",Mombasa,Mombasa,2009,49
+DLR-0015,Williams and Sons Motors,Eldoret,Eldoret,2023,10
